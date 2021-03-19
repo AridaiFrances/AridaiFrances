@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋:muscle:
 
-<!--
-**aridescos/aridescos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Actualmente me encuentro subiendo contenido y proyectos pendientes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :up: App con integración de API Gmail sin uso de apps de terceros.
+- :soon: Acceso directo MysQL desde Android sin terceros.
+- :soon: App gestión proceso productivo ( Construcción dinámica, MySQL externo, Web Service PHP, HTML5+PHP Gestión admin).
+- :soon: App apta para integración mixta SQLite + MySQL + Firebase.
+- :soon: App chat bases de datos en tiempo real Firebae.
+
+
+/play greatjob
