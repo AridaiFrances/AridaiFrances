@@ -1,4 +1,4 @@
-### Hi there 👋:muscle:
+### Hi there 👋
 
 
 Actualmente me encuentro subiendo contenido y proyectos pendientes:
