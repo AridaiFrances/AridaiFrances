@@ -7,7 +7,7 @@ Actualmente me encuentro subiendo contenido y proyectos pendientes:
 - :o: App chat bases de datos en tiempo real Firebase. 5 %
 - ☑️  Acceso directo MysQL desde Android sin terceros. Conexión 100 %
 - :x: App gestión proceso productivo ( Construcción dinámica, MySQL externo, Web Service PHP, HTML5+PHP Gestión admin). 0 %
-- :x: App apta para integración mixta SQLite + MySQL + Firebase. 0 %
+- :x: App contenido mixto MySQL + Firebase + GestionAdmin incluído. 0 %
 
 
 
